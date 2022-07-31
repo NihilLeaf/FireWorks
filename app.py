@@ -1,5 +1,3 @@
-from turtle import color
-from matplotlib import colors
 import pygame
 import time
 import random
